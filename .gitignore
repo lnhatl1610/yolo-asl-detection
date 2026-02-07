@@ -1,0 +1,27 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# =====================
+# YOLO / Ultralytics
+# =====================
+runs/
+dataset/
+*.pt
+
+# =====================
+# OS / IDE
+# =====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
