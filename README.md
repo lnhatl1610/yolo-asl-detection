@@ -1,7 +1,5 @@
 ## Installation
 
----
-
 1. **Clone the repository**
 
 ~~~bash
@@ -11,12 +9,12 @@ cd yolo-asl-detection
 
 2. **Setup invironment**
 
-*Install PyTorch (CUDA)*
+Install PyTorch (CUDA)
 ~~~bash
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 ~~~
 
-*Install project deps*
+Install project deps
 ~~~bash
 pip install -r requirements.txt
 ~~~
